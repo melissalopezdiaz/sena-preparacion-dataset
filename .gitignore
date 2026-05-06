@@ -1,5 +1,5 @@
 # Dataset original (puede contener datos sensibles)
-data/raw/
+# data/raw/
 
 # Entornos virtuales
 venv/
